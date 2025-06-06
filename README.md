@@ -51,7 +51,7 @@ img{
 <body>
 <h1> Las cajas flotantes  </h1>
 <div id="cajaNegra"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Anas_platyrhynchos_qtl1.jpg/1200px-Anas_platyrhynchos_qtl1.jpg"> Caja NEGRA </div>
-<div id="cajaAzul"> <img src="https://static.wikia.nocookie.net/adoptme/images/e/eb/Goose_teaser.png/revision/latest?cb=20230329150821"> Caja AZUL </div>
+<div id="cajaAzul"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Anas_platyrhynchos_qtl1.jpg/1200px-Anas_platyrhynchos_qtl1.jpg"> Caja AZUL </div>
 <div id="cajaVerde"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Anas_platyrhynchos_qtl1.jpg/1200px-Anas_platyrhynchos_qtl1.jpg"> Caja VERDE </div> 
 <div id="cajaRoja"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Anas_platyrhynchos_qtl1.jpg/1200px-Anas_platyrhynchos_qtl1.jpg"> Caja ROJA </div>
  
